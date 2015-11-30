@@ -1,2 +1,2 @@
-# daily
-just record my daily.
+# Daily
+Recording my plan.
